@@ -1,2 +1,2 @@
 # gnuradio-examples
-Repository of gnuradio examples to use inside WIRID-LAB.
+gnuradio examples in grc and python to control USRP radios inside WIRID-LAB.
