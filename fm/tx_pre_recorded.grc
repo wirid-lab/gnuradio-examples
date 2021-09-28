@@ -63,7 +63,7 @@ blocks:
     alias: ''
     begin_tag: pmt.PMT_NIL
     comment: ''
-    file: /headless/Downloads/espectro_94.9
+    file: ./espectro_94_9
     length: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
